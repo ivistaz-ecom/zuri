@@ -19,5 +19,4 @@ jobs:
 
           script: |
             cd /home/reactlive/ZuriHotels
-            sudo su
             git pull origin main
