@@ -19,5 +19,5 @@ jobs:
 
           script: |
             cd /home/reactlive/ZuriHotels
-            sudo -S
             sudo git pull origin main
+            echo ivista@2023 | sudo -S kallol
