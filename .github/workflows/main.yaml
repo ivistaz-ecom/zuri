@@ -19,4 +19,4 @@ jobs:
 
           script: |
             cd /home/reactlive/ZuriHotels
-            ls
+            touch test.txt
