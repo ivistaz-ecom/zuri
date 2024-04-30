@@ -19,4 +19,4 @@ jobs:
 
           script: |
             cd /home/reactlive/ZuriHotels
-            touch test.txt
+            sudo -S touch test.txt
